@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+
+venv/
+.venv/
+env/
+
+
+*.pdf
+!sample/*.pdf          # only sample 
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+*.swp
