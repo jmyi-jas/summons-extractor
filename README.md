@@ -1,11 +1,23 @@
 # 传票助手
 
+<div align="center">
+
+<img src="download.png" width="80">
+
+**自动提取法院传票关键信息 · 生成日历提醒** ❗
+
+![version](https://img.shields.io/badge/版本-1.0-e63946?style=for-the-badge)
+![manifest](https://img.shields.io/badge/本地运行-无数据上传-ff4d4d?style=for-the-badge)
+![platform](https://img.shields.io/badge/平台-Python_·_EXE-c1121f?style=for-the-badge)
+
+</div>
+
 > 自动从法院传票 PDF 中提取关键信息，并生成日历提醒。
 
- 适用于需要整理大量传票的法律工作者。**本工具完全本地运行，不上传任何数据。**
- <br>
-❗️如果你不喜欢下载一些东西，没有接触过python，可以直接下载exe运行，在release中 <br>
-以及如果你还需要批量下载的工具（比如文书列表有几十上百个文件下载麻烦，可以安装插件）： [法律文件下载器](https://github.com/jmyi-jas/legal-doc-downloader) 
+适用于需要整理大量传票的法律工作者。**本工具完全本地运行，不上传任何数据。**
+<br>
+❗️如果你不喜欢下载一些东西，没有接触过 Python，可以直接下载 exe 运行，在 release 中 <br>
+以及如果你还需要批量下载的工具（比如文书列表有几十上百个文件下载麻烦，可以安装插件）：[一张网下载器](https://github.com/jmyi-jas/legal-doc-downloader)
 
 ---
 
